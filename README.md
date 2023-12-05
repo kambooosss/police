@@ -8,7 +8,7 @@ Welcome to the e-Petition Monitoring System, a web-based platform designed to st
 
 - **Add Petition:**
   - Users with appropriate credentials can add new petitions to the system, providing necessary details such as petitioner information, petition content, and related evidence.
-  - ![image](https://github.com/kambooosss/police/assets/89924142/639e87f4-2f80-4cb8-8296-a576b8997bcb)
+  - ![image](https://github.com/kambooosss/police/assets/89924142/cfa30fbc-2bd6-4435-ac6c-5d13cc7b2e38)
 
 
 - **View Petition:**
