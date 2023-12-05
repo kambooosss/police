@@ -34,11 +34,3 @@ Welcome to the e-Petition Monitoring System, a web-based platform designed to st
 - **Assignment of Petitions:**
   - Higher-ranking officers (DGP, SSP) have the authority to assign petitions to specific circles and areas, ensuring that petitions are handled by the appropriate authorities.
 
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/e-petition-monitoring-system.git
